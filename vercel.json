@@ -1,5 +1,5 @@
 {
   "builds": [
-    { "src": "tsconfig.json", "use": "@vercel/static-build" }
+    { "src": "package.json", "use": "@vercel/static-build" }
   ]
 }
